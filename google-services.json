@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "529637821539",
+    "firebase_url": "https://starme-163604.firebaseio.com",
+    "project_id": "starme-163604",
+    "storage_bucket": "starme-163604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529637821539:android:4aec7b07f69f7c16",
+        "android_client_info": {
+          "package_name": "com.technit.starme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529637821539-auhub87p27khr3n2koi140icc4eu56tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdgZ-Q5LjSUSuX4b3J_rmHwlrvnGKZKh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }

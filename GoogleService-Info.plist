@@ -1,1 +1,40 @@
-<!-- Dummy GoogleService-Info file !! replace with your configuration -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>529637821539-u2fcsgdsb1qsjk19pv7ecr5feanv2qnv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.529637821539-u2fcsgdsb1qsjk19pv7ecr5feanv2qnv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOAg76BQbu5QR1OWFP9GlJW6HX-jL-rA8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>529637821539</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.technit.starme</string>
+	<key>PROJECT_ID</key>
+	<string>starme-163604</string>
+	<key>STORAGE_BUCKET</key>
+	<string>starme-163604.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:529637821539:ios:4aec7b07f69f7c16</string>
+	<key>DATABASE_URL</key>
+	<string>https://starme-163604.firebaseio.com</string>
+</dict>
+</plist>
